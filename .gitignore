@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Deep learning artifacts
+data/
+datasets/
+checkpoints/
+models/
+weights/
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Logs & experiments
+logs/
+runs/
+wandb/
+mlruns/
+
+# OS / Editor
+.vscode/
+.DS_Store
+Thumbs.db
