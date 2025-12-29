@@ -8,6 +8,7 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+cityscapes_segmentation.ipynb
 
 # Deep learning artifacts
 data/
